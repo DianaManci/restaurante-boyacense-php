@@ -41,8 +41,8 @@ CREATE TABLE `cliente` (
 --
 
 INSERT INTO `cliente` (`id`, `nombre`, `apellido`, `telefono`, `ciudad`, `correo`) VALUES
-(1, 'Alejandra', 'Mancipe', '3208209285', 'velez ', 'mancipealejandra63@gmail.com'),
-(3, 'Alejandra', 'Mancipe', '3208209285', 'velez', 'mancipealejandra63@gmail.com'),
+(1, 'Ana', 'Demo', '3000000000', 'Ciudad Demo', 'demo.cliente@example.com'),
+(3, 'Ana', 'Demo', '3000000000', 'Ciudad Demo', 'demo.cliente@example.com'),
 (6, 'ksnq', 'jkadb', '23376', 'lksm', 'dmnw@kdn.cp');
 
 --
